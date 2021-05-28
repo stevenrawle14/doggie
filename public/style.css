@@ -1,6 +1,10 @@
 @media screen and (max-width:480px)
 {
 	
+			html {
+			background-color:red;
+			}
+	
 			body {
 				background-color:red;
 			}
