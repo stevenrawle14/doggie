@@ -1,0 +1,29 @@
+@media screen and (max-width:480px)
+{
+	
+			body {
+				background-color:red;
+			}
+
+
+			.doggieImg
+			{
+				max-width: 100%;
+				height: auto;
+			}
+	
+			
+			#btn 
+			{
+				max-width:100%;
+				min-height:100%;
+				margin-top:5%;
+				background-color:black;
+				color : green;
+				font-size:100px
+			}
+	
+	
+	
+}
+	
