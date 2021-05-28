@@ -2,7 +2,7 @@
 {
 	
 			html {
-			color:red;
+				color:white;
 			}
 	
 			body {
@@ -23,7 +23,7 @@
 				min-height:100%;
 				margin-top:5%;
 				background-color:black;
-				color : green;
+				color : red;
 				font-size:100px
 			}
 	
