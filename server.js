@@ -10,8 +10,7 @@ app.listen (5000, console.log(
 ));
 
 function logger (req,res,next){
-	console.log("hello from middleware after sending index.html")
-	console.log("response should be logged above");
+	
 	next();
 };	
 

@@ -1,0 +1,60 @@
+@media screen and (max-width:480px)
+{
+	
+			body {
+				background-color:red;
+			}
+
+
+			.doggieImg
+			{
+				max-width: 100%;
+				height: auto;
+			}
+	
+			
+			#buttonClass 
+			{
+				max-width:100%;
+				min-height:100%;
+				margin:15%;
+				background-color:black;
+				color : red;
+				font-size:100px;
+				border-color:blue;
+				border-width: 50px ;
+			}
+			.tyler {
+				
+				font-family:'Times New Roman', Times, serif ;
+				font-size: 50px ;
+				font-style: italic ;
+				font-weight: bold  ;
+				
+				margin: 20px 40px 20px 40px;
+				padding:2px;
+				border-color:black;
+				border-width: 10px;
+				background-color:antiquewhite ;
+				background-position: ;
+			}
+			
+			.shut {
+
+				font-family:'Times New Roman', Times, serif ;
+				font-size: 50px ;
+				font-style: italic ;
+				font-weight: bold  ;
+				
+				margin: 20px 40px 20px 40px;
+				padding:2px;
+				border-color:black;
+				border-width: 10px;
+				background-color:antiquewhite ;
+				background-position: ;
+
+			}
+	
+	
+}
+	
