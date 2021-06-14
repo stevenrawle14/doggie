@@ -61,6 +61,11 @@
 			body {
 				background-color:red;
 			}
+			html {
+				background-color:red;
+				
+				
+			}
 
 
 			.doggieImg
@@ -110,5 +115,12 @@
 				background-color:antiquewhite ;
 				background-position: ;
 
+			}
+			.buttonClass {
+				margin:20%;
+				padding:15%;
+				color:black;
+				background-color: red;
+				font-size:50%;
 			}
 	
